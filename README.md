@@ -10,6 +10,8 @@
 
 Configuration management tool for Radarr/Sonarr that automates importing and version control of custom formats and quality profiles.
 
+Test
+
 ![Profilarr Preview](.github/images/preview.png)
 
 ## Features
